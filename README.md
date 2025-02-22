@@ -1,4 +1,4 @@
-#Growing Pains
+## Growing Pains
 
 Write a program that reads 5 int values (must be between 0-9) from the user and then
 combines them into a single 5 digit int value, e.g. 1,2,3,4,5 => 12345. Output this value
