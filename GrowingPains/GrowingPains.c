@@ -3,7 +3,7 @@
 
 int main() {
 	// Get values into array
-	int nums[5], numsLength = sizeof(nums) / 4;
+	int nums[5], numsLength = sizeof(nums) / sizeof(int);
 
 	for (int x = 0; x < numsLength; x++) {
 		printf("Insert a number: ");
